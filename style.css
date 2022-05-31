@@ -1,0 +1,100 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 140px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+#dig {
+    color: turquoise;
+}
+
+.orange {
+    color: turquoise;
+}
+
+h2 {
+    color: rgb(5, 114, 96);
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+.half-width img {
+    width: 75%;
+}
+
+#fb-pic {
+    width: 85%;
+}
+
+#fb {
+    margin-right: 20px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(9, 158, 133), rgb(66, 204, 24));
+    padding: 10px 17px;
+    border-radius: 7px;
+    font-weight: 700;
+    font-size: 23px;
+}
+
+.one p {
+    text-align: center;
+}
+
+.box {
+    width: 45%;
+    border-radius: 7px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 50px rgb(2, 0, 0);
+
+
+
+
+}
+
+#gads {
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, tomato);
+    border-image-slice: 1;
+
+}
+
+#fads {
+    border-left: 7px solid;
+    border-image: linear-gradient(cyan, blue);
+    border-image-slice: 1;
+}
+
+.fiver-pic {
+    width: 90%;
+}
+
+.google-pic {
+    width: 90%;
+}
+
+footer p {
+    text-align: center;
+}
